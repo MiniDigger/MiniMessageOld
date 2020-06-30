@@ -1,9 +1,14 @@
-# MiniMessage
+# MiniMessage OLD
 [![CodeFactor](https://www.codefactor.io/repository/github/minidigger/minimessage/badge)](https://www.codefactor.io/repository/github/minidigger/minimessage)
 [![GitHub license](https://img.shields.io/github/license/MiniDigger/MiniMessage?style=flat-square)](https://github.com/MiniDigger/MiniMessage/blob/master/LICENSE)
 ![Maven Central](https://img.shields.io/maven-central/v/me.minidigger/MiniMessage?style=flat-square)
 
 Simple library that implements an easy to use textual format to send rich json messages. 
+
+## THIS VERSION ISN'T MAINTAINED ANYMORE
+
+This project moved to the @KyoriPowered Organisation.
+You can find it here now: https://github.com/KyoriPowered/MiniMessage
 
 ## Examples
 
